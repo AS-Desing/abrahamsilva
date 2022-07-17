@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body{
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(238,238,238,1) 100%);
+
+}
+
+.Navbar{
+    background: rgb(104,205,230);
+    background: radial-gradient(circle, rgba(104,205,230,1) 0%, rgba(54,133,153,1) 100%);    
+
+}
+
+.p{
+    
+}
