@@ -137,7 +137,7 @@ const Index= () =>(
 
 
 {/*tarjeta 2*/}
-<div className="flex items-stretch flex-wrap  justify-between  mx-auto max-w-screen-xl  content-center items-center place-items-center mx-20 max-w-screen-xl px-8 md:px-6 py-10 columns-3  gap-8">
+<div className="flex items-stretch flex-wrap  justify-between  mx-auto max-w-screen-xl  content-center items-center place-items-center md:mx-20 max-w-screen-xl px-8 md:px-6 py-10 columns-3  gap-8">
 
     <div >
     <div className="border-2 border-black bg-gray-800 content-center items-center w-100">
