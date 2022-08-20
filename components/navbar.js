@@ -8,10 +8,10 @@ const Navbar= ()=>(
         <div class="flex mx-auto items-center">
             <ul class="flex flex-row mt-0 mr-8 space-x-8 text-sm font-medium">
                 <li>
-                    <a href="/" class="text-gray-900 dark:text-white hover:underline text-2xl" aria-current="page">Home</a>
+                    <a href="/" class="text-gray-900 text-white hover:underline text-2xl" aria-current="page">Home</a>
                 </li>
                 <li>
-                    <a href="myself" class="text-gray-900 dark:text-white hover:underline text-2xl">Sobre Mí</a>
+                    <a href="myself" class="text-gray-900 text-white hover:underline text-2xl">Sobre Mí</a>
                 </li>
 
             </ul>
