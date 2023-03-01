@@ -8,7 +8,7 @@ const Index= () =>(
 <h1 className="text-center font-sans text-4xl font-semibold  uppercase ">Sobre mi Trabajo</h1>
 <br></br>
 <h2 className="text-center font-sans text-2xl font-semibold italic capitalize">Post para redes Sociales</h2>
-<div className="flex items-center justify-centercontent-center place-items-center items-stretch flex-wrap  justify-between  mx-auto max-w-screen-xl  content-center md:mx-20 max-w-screen-xl px-8 md:px-6 py-10 columns-1  gap-8">
+<div className="flex items-center place-items-center items-stretch flex-wrap  justify-between  mx-auto max-w-screen-xl  content-center mx-20 max-w-screen-xl px-8 md:px-6 py-10 columns-1  gap-8">
 
     <div className=" border-2 border-black bg-gray-800 content-center item-center lg:w-100 ">
         <div className="lg:m-2 lg:p-2 content-center">
