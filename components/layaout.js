@@ -1,12 +1,14 @@
 import Footer from "./footer"
-import Navbar from "./navbar"
+import Images from "./images"
+import SobreMi from "./sobremi"
 const Layout = ({children}) =>(
     <>
-    <Navbar/>
 
     {children}
-
+    <SobreMi/>
+    <Images/>
     <Footer/>
+
     </>
 )
 
