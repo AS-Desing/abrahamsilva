@@ -54,16 +54,16 @@ h2{
     .txt .smtxt{
         font-size: 0.8em;
     }
-    .bg-about{
-        background-image: url(../public/bitmap.png);
-        background-size: cover;
-        background-repeat:no-repeat;
-    }
+
 
 }
+.bg-about{
+    background-image: url(../public/bitmap.png);
+    background-size: cover;
+    background-repeat:no-repeat;
+}
 
-
-@media screen and (min-width:200px) and (max-width:712px){ 
+@media screen and (max-width:712px){ 
     .txt{
         color: #0b3954;
         font-family: "Inter", sans-serif;
@@ -75,4 +75,9 @@ h2{
         align-items: center;
 
        }
+       .bg-about{
+        background-image: none;
+        background-size: cover;
+        background-repeat:no-repeat;
+    }
 }
