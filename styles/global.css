@@ -55,15 +55,13 @@ h2{
         font-size: 0.8em;
     }
 .bg-about{
-    background-image: url(../public/bitmap.png);
+    background-image: url(../public/bitmap.jpg);
     background-size: cover;
     background-repeat:no-repeat;
 }
 
 }
-.bg-acount{
-    background-color:#0b3954;
-}
+
 
 @media screen and (max-width:712px){ 
     .txt{
