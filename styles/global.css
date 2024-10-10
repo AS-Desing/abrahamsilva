@@ -76,8 +76,7 @@ h2{
 
        }
        .bg-about{
-        background-image: none;
-        background-size: cover;
-        background-repeat:no-repeat;
+        backgroud-color:#0b3954;
+       
     }
 }
