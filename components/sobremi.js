@@ -4,8 +4,8 @@ const SobreMi=()=>(
             <div className="md:ml-[12rem]">
                 <img className="md:w-80" src="foto-perfil.jpeg"/>
             </div>
-            <div className="text-center items-center content-center txt">
-            <p className="text-center sm:text-center content-center smtxt lg:text-xl xl:text-2xl text-justify mx-6">Siempre me he sentido apasionado por el diseño y la programación, pero no fue 
+            <div className="text-center items-center content-center lg:text-2xl xl:text-3xl txt">
+            <p className="text-center sm:text-center content-center smtxt text-justify mx-6">Siempre me he sentido apasionado por el diseño y la programación, pero no fue 
             sino hasta el inicio de la pandemia que me decidí a dedicarme a mi pasión.En la actualidad trabajo de forma Frelance tanto en la creación de publicidad 
             para redes sociales como la programación de sitios web enfocándome especialmente 
             en el uso de react. Siempre estoy buscando aprender más y crecer en este 
