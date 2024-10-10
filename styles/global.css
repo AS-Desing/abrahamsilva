@@ -61,7 +61,9 @@ h2{
 }
 
 }
-
+.bg-acount{
+    background-color:#0b3954;
+}
 
 @media screen and (max-width:712px){ 
     .txt{
